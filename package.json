@@ -1,0 +1,12 @@
+{
+  "name": "todo-back",
+  "version": "1.0.0",
+  "description": "To Do list back-end server using Node.js and Express.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
